@@ -1,4 +1,4 @@
-# Question 3: Reverse Traversal of Singly Linked List
+# Question 3: Reverse Traversal of Singly Linked List.
 
 ## Data Structure Used
 A singly linked list is used to store elements. Each node contains data and a pointer to the next node.
