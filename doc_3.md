@@ -19,4 +19,3 @@ Enter element 3: 30
 Enter element 4: 40  
 Enter element 5: 50  
 Linked List in reverse: 50 40 30 20 10
-🧠 Simple idea
